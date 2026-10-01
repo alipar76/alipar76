@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi 👋, I'm Ali
 
-<!--
-**alipar76/alipar76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I build modern web applications using React, Next.js,
+Node.js and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        ↓
+
+🧰 Languages & Tools
+
+[ JavaScript ] [ TypeScript ] [ React ] [ Next.js ]
+[ Node.js ] [ NestJS ] [ PostgreSQL ] [ MongoDB ]
+[ Redis ] [ Docker ] [ GitLab ]
+
+        ↓
+
+📊 GitHub Stats
+
+[ GitHub Stats Card ]
+
+        ↓
+
+🏆 Top Languages
+
+[ Top Languages Card ]
+
+        ↓
+
+🚀 Featured Projects
+
+Project 1
+Project 2
+Project 3
+
+        ↓
+
+📫 Connect With Me
+
+GitHub | LinkedIn | Email | Portfolio
